@@ -5,7 +5,7 @@
 This project analyzes the Instacart dataset to uncover insights about user behavior, product trends, and purchasing patterns. The analysis is done using Python and Jupyter notebooks.
 
 ## Project Structure
-- data : Raw datasets from Instacart (orders, products, aisles, departments)
+- data : Raw datasets from Instacart (orders, products, customer, departments)
 - notebooks: Analysis notebooks in chronological order
 - 4.1_data_overview.ipynb
 - 4.2_data_cleaning.ipynb
